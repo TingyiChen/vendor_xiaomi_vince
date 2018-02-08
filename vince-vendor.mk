@@ -212,7 +212,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libEGL_adreno.so:system/vendor/lib/libEGL_adreno.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libFaceGrade.so:system/vendor/lib/libFaceGrade.so \
-    vendor/xiaomi/vince/proprietary/vendor/lib/libFaceProc.so:system/vendor/lib/libFaceProc.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libOmxAlacDec.so:system/vendor/lib/libOmxAlacDec.so \
@@ -228,8 +227,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libQtiTether.so:system/vendor/lib/libQtiTether.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
-    vendor/xiaomi/vince/proprietary/vendor/lib/libRecoFace.so:system/vendor/lib/libRecoFace.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib/libXMFD_AgeGender.so:system/vendor/lib/libXMFD_AgeGender.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/lib_lowlight.so:system/vendor/lib/lib_lowlight.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/lib_rsu.so:system/vendor/lib/lib_rsu.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
@@ -256,6 +255,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libc2d30-a5xx.so:system/vendor/lib/libc2d30-a5xx.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libc2d30_bltlib.so:system/vendor/lib/libc2d30_bltlib.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib/libcaffe.so:system/vendor/lib/libcaffe.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromaflash.so:system/vendor/lib/libchromaflash.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_ov12a10_sunny_vince_4k_preview_dw9763.so:system/vendor/lib/libchromatix_ov12a10_sunny_vince_4k_preview_dw9763.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_ov12a10_sunny_vince_4k_video_dw9763.so:system/vendor/lib/libchromatix_ov12a10_sunny_vince_4k_video_dw9763.so \
@@ -530,6 +530,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_liveshot.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_liveshot.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_preview.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_preview.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_snapshot.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_snapshot.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_snapshot_hht.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_snapshot_hht.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_video.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_cpp_video.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_default_preview_3a.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_default_preview_3a.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_ofilm_default_video.so:system/vendor/lib/libchromatix_vince_india_ov5675_ofilm_default_video.so \
@@ -553,6 +554,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_liveshot.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_liveshot.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_preview.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_preview.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_snapshot.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_snapshot.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_snapshot_hht.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_snapshot_hht.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_video.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_cpp_video.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_default_preview_3a.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_default_preview_3a.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libchromatix_vince_india_ov5675_qtech_default_video.so:system/vendor/lib/libchromatix_vince_india_ov5675_qtech_default_video.so \
@@ -1017,4 +1019,5 @@ PRODUCT_PACKAGES += \
     qti-telephony-common \
     qdcm_calib_data_nt36672_csot_e7_fhdplus_video_mode_dsi_panel \
     qdcm_calib_data_td4310_ebbg_fhdplus_e7_video_mode_dsi_panel \
+    qdcm_calib_data_td4310_fhdplus_e7_g55_video_mode_dsi_panel \
     qdcm_calib_data_td4310_fhdplus_e7_video_mode_dsi_panel

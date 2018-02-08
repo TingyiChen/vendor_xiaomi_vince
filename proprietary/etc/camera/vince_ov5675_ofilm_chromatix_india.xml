@@ -95,6 +95,17 @@ special_mode_mask values:
       <A3Preview>vince_india_ov5675_ofilm_zsl_preview_3a</A3Preview>
       <A3Video>vince_india_ov5675_ofilm_zsl_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
+      <ISPPreview>vince_india_ov5675_ofilm_snapshot</ISPPreview>
+      <ISPSnapshot>vince_india_ov5675_ofilm_snapshot</ISPSnapshot>
+      <ISPVideo>vince_india_ov5675_ofilm_snapshot</ISPVideo>
+      <CPPPreview>vince_india_ov5675_ofilm_cpp_preview</CPPPreview>
+      <CPPSnapshot>vince_india_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_india_ov5675_ofilm_cpp_video</CPPVideo>
+      <CPPLiveshot>vince_india_ov5675_ofilm_cpp_liveshot</CPPLiveshot>
+      <A3Preview>vince_india_ov5675_ofilm_zsl_preview_3a</A3Preview>
+      <A3Video>vince_india_ov5675_ofilm_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>vince_india_ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>vince_india_ov5675_ofilm_snapshot</ISPSnapshot>
