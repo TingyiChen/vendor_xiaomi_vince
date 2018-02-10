@@ -165,7 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/xiaomi/vince/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/xiaomi/vince/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
-    vendor/xiaomi/vince/proprietary/lib/hw/lights.msm8953.so:system/lib/hw/lights.msm8953.so \
     vendor/xiaomi/vince/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/xiaomi/vince/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/xiaomi/vince/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -180,7 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/vince/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
     vendor/xiaomi/vince/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
-    vendor/xiaomi/vince/proprietary/lib64/hw/lights.msm8953.so:system/lib64/hw/lights.msm8953.so \
     vendor/xiaomi/vince/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
     vendor/xiaomi/vince/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/xiaomi/vince/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
