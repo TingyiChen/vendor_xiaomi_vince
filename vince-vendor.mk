@@ -138,6 +138,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/etc/firmware/rampatch_tlv_3.0.tlv \
     vendor/xiaomi/vince/proprietary/etc/firmware/rampatch_tlv_3.2.tlv:system/etc/firmware/rampatch_tlv_3.2.tlv \
     vendor/xiaomi/vince/proprietary/etc/firmware/tas2557_uCDSP.bin:system/etc/firmware/tas2557_uCDSP.bin \
+    vendor/xiaomi/vince/proprietary/etc/morpho_lowlight4.0.xml:system/etc/morpho_lowlight4.0.xml \
     vendor/xiaomi/vince/proprietary/etc/permissions/ConnectivityExt.xml:system/etc/permissions/ConnectivityExt.xml \
     vendor/xiaomi/vince/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/xiaomi/vince/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
@@ -166,6 +167,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/xiaomi/vince/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/xiaomi/vince/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
+    vendor/xiaomi/vince/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/xiaomi/vince/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/xiaomi/vince/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/xiaomi/vince/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/vince/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
