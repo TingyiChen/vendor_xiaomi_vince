@@ -429,26 +429,28 @@
       </TOPOLOGY>
     </TOPOLOGY_LIST>
     <BLOCK_LIST>
-      <Block name="AFE_MODULE_DSM_RX" ID="0x10001062" type="RX" NewAdded="true" dataView_ID="0xFFFF0001" />
-      <Block name="AUDIO_FVSAM_TX" ID="0x00010F52" type="TX" NewAdded="true" dataView_ID="0xFFFF0002" />
-      <Block name="TX_VOICE_FVSAM" ID="0x00010F50" type="TX" NewAdded="true" dataView_ID="0xFFFF0003" />
-      <Block name="RX_VOICE_FVSAM" ID="0x00010F51" type="RX" NewAdded="true" dataView_ID="0xFFFF0004" />
-      <Block name="AUDIO_FVSAM_TX_STEREO" ID="0x00010F53" type="TX" NewAdded="true" dataView_ID="0xFFFF0005" />
-      <Block name="AUDIO_FVSAM_TX_24" ID="0x00010F54" type="TX" NewAdded="true" dataView_ID="0xFFFF0006" />
-      <Block name="AUDIO_FVSAM_TX_24_STEREO" ID="0x00010F55" type="TX" NewAdded="true" dataView_ID="0xFFFF0007" />
-      <Block name="AUDIO_FVSAM_TX_SWB" ID="0x00010F56" type="TX" NewAdded="true" dataView_ID="0xFFFF0008" />
-      <Block name="AUDIO_FVSAM_TX_SWB_STEREO" ID="0x00010F57" type="TX" NewAdded="true" dataView_ID="0xFFFF0009" />
-      <Block name="MDIRAC_IPOWERSOUND" ID="0x00012D00" type="RX" NewAdded="true" dataView_ID="0xFFFF000A" />
-      <Block name="MDIRAC_EHEADSET" ID="0x00012D01" type="RX" NewAdded="true" dataView_ID="0xFFFF000B" />
+      <Block name="AUDIO_SRS_TRUMEDIA" ID="0x10005010" version="0" type="RX" dataView_ID="0xFFFF0001" />
+      <Block name="AFE_MODULE_DSM_RX" ID="0x10001062" type="RX" NewAdded="true" dataView_ID="0xFFFF0002" />
+      <Block name="AUDIO_FVSAM_TX" ID="0x00010F52" type="TX" NewAdded="true" dataView_ID="0xFFFF0003" />
+      <Block name="TX_VOICE_FVSAM" ID="0x00010F50" type="TX" NewAdded="true" dataView_ID="0xFFFF0004" />
+      <Block name="RX_VOICE_FVSAM" ID="0x00010F51" type="RX" NewAdded="true" dataView_ID="0xFFFF0005" />
+      <Block name="AUDIO_FVSAM_TX_STEREO" ID="0x00010F53" type="TX" NewAdded="true" dataView_ID="0xFFFF0006" />
+      <Block name="AUDIO_FVSAM_TX_24" ID="0x00010F54" type="TX" NewAdded="true" dataView_ID="0xFFFF0007" />
+      <Block name="AUDIO_FVSAM_TX_24_STEREO" ID="0x00010F55" type="TX" NewAdded="true" dataView_ID="0xFFFF0008" />
+      <Block name="AUDIO_FVSAM_TX_SWB" ID="0x00010F56" type="TX" NewAdded="true" dataView_ID="0xFFFF0009" />
+      <Block name="AUDIO_FVSAM_TX_SWB_STEREO" ID="0x00010F57" type="TX" NewAdded="true" dataView_ID="0xFFFF000A" />
+      <Block name="MDIRAC_IPOWERSOUND" ID="0x00012D00" type="RX" NewAdded="true" dataView_ID="0xFFFF000B" />
+      <Block name="MDIRAC_EHEADSET" ID="0x00012D01" type="RX" NewAdded="true" dataView_ID="0xFFFF000C" />
     </BLOCK_LIST>
     <AB_VIEW_LIST>
-      <AB_VIEW dataView_ID="0xFFFF0001" name="AFE_MODULE_DSM_RX" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0001" name="AUDIO_SRS_TRUMEDIA" NewAdded="true" />
+      <AB_VIEW dataView_ID="0xFFFF0002" name="AFE_MODULE_DSM_RX" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010203" />
           <INTERFACE I_id="0x10001066" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0002" name="AUDIO_FVSAM_TX" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0003" name="AUDIO_FVSAM_TX" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -466,7 +468,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0003" name="TX_VOICE_FVSAM" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0004" name="TX_VOICE_FVSAM" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -484,7 +486,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0004" name="RX_VOICE_FVSAM" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0005" name="RX_VOICE_FVSAM" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00011000" />
@@ -495,7 +497,7 @@
           <INTERFACE I_id="0x00011016" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0005" name="AUDIO_FVSAM_TX_STEREO" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0006" name="AUDIO_FVSAM_TX_STEREO" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -513,7 +515,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0006" name="AUDIO_FVSAM_TX_24" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0007" name="AUDIO_FVSAM_TX_24" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -531,7 +533,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0007" name="AUDIO_FVSAM_TX_24_STEREO" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0008" name="AUDIO_FVSAM_TX_24_STEREO" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -549,7 +551,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0008" name="AUDIO_FVSAM_TX_SWB" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF0009" name="AUDIO_FVSAM_TX_SWB" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -567,7 +569,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF0009" name="AUDIO_FVSAM_TX_SWB_STEREO" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF000A" name="AUDIO_FVSAM_TX_SWB_STEREO" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00010E00" />
           <INTERFACE I_id="0x00010010" />
@@ -585,7 +587,7 @@
           <INTERFACE I_id="0x00010020" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF000A" name="MDIRAC_IPOWERSOUND" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF000B" name="MDIRAC_IPOWERSOUND" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00012D00" />
           <INTERFACE I_id="0x00012D01" />
@@ -605,7 +607,7 @@
           <INTERFACE I_id="0x00012D16" />
         </DATA_VIEW>
       </AB_VIEW>
-      <AB_VIEW dataView_ID="0xFFFF000B" name="MDIRAC_EHEADSET" NewAdded="true">
+      <AB_VIEW dataView_ID="0xFFFF000C" name="MDIRAC_EHEADSET" NewAdded="true">
         <DATA_VIEW name="Data" display="true">
           <INTERFACE I_id="0x00012D00" />
           <INTERFACE I_id="0x00012D01" />
