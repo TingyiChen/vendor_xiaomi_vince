@@ -139,29 +139,84 @@ special_mode_mask values:
       <A3Preview>vince_ov5675_ofilm_hfr_120_3a</A3Preview>
       <A3Video>vince_ov5675_ofilm_hfr_120_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="10" special_mode_mask="0">
+	 <ChromatixName sensor_resolution_index="10" special_mode_mask="0">
+      <ISPPreview>vince_ov5675_ofilm_snapshot</ISPPreview>
+      <ISPSnapshot>vince_ov5675_ofilm_snapshot</ISPSnapshot>
+      <ISPVideo>vince_ov5675_ofilm_snapshot</ISPVideo>
+      <CPPPreview>vince_ov5675_ofilm_cpp_preview</CPPPreview>
+      <CPPSnapshot>vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_ov5675_ofilm_cpp_video</CPPVideo>
+      <CPPLiveshot>vince_ov5675_ofilm_cpp_liveshot</CPPLiveshot>
+      <A3Preview>vince_ov5675_ofilm_zsl_preview_3a</A3Preview>
+      <A3Video>vince_ov5675_ofilm_zsl_video_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="11" special_mode_mask="0">
+      <ISPPreview>vince_ov5675_ofilm_snapshot</ISPPreview>
+      <ISPSnapshot>vince_ov5675_ofilm_snapshot</ISPSnapshot>
+      <ISPVideo>vince_ov5675_ofilm_snapshot</ISPVideo>
+      <CPPPreview>vince_ov5675_ofilm_cpp_preview</CPPPreview>
+      <CPPSnapshot>vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_ov5675_ofilm_cpp_video</CPPVideo>
+      <CPPLiveshot>vince_ov5675_ofilm_cpp_liveshot</CPPLiveshot>
+      <A3Preview>vince_ov5675_ofilm_default_preview_3a</A3Preview>
+      <A3Video>vince_ov5675_ofilm_default_video_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="12" special_mode_mask="0">
+      <ISPPreview>vince_ov5675_ofilm_hfr_60</ISPPreview>
+      <ISPSnapshot>vince_ov5675_ofilm_hfr_60</ISPSnapshot>
+      <ISPVideo>vince_ov5675_ofilm_hfr_60</ISPVideo>
+      <CPPPreview>vince_ov5675_ofilm_cpp_hfr_60</CPPPreview>
+      <CPPSnapshot>vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_ov5675_ofilm_cpp_hfr_60</CPPVideo>
+      <CPPLiveshot>vince_ov5675_ofilm_cpp_hfr_60</CPPLiveshot>
+      <A3Preview>vince_ov5675_ofilm_hfr_60_3a</A3Preview>
+      <A3Video>vince_ov5675_ofilm_hfr_60_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="13" special_mode_mask="0">
+      <ISPPreview>vince_ov5675_ofilm_hfr_90</ISPPreview>
+      <ISPSnapshot>vince_ov5675_ofilm_hfr_90</ISPSnapshot>
+      <ISPVideo>vince_ov5675_ofilm_hfr_90</ISPVideo>
+      <CPPPreview>vince_ov5675_ofilm_cpp_hfr_90</CPPPreview>
+      <CPPSnapshot>vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_ov5675_ofilm_cpp_hfr_90</CPPVideo>
+      <CPPLiveshot>vince_ov5675_ofilm_cpp_hfr_90</CPPLiveshot>
+      <A3Preview>vince_ov5675_ofilm_hfr_90_3a</A3Preview>
+      <A3Video>vince_ov5675_ofilm_hfr_90_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="14" special_mode_mask="0">
+      <ISPPreview>vince_ov5675_ofilm_hfr_120</ISPPreview>
+      <ISPSnapshot>vince_ov5675_ofilm_hfr_120</ISPSnapshot>
+      <ISPVideo>vince_ov5675_ofilm_hfr_120</ISPVideo>
+      <CPPPreview>vince_ov5675_ofilm_cpp_hfr_120</CPPPreview>
+      <CPPSnapshot>vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
+      <CPPVideo>vince_ov5675_ofilm_cpp_hfr_120</CPPVideo>
+      <CPPLiveshot>vince_ov5675_ofilm_cpp_hfr_120</CPPLiveshot>
+      <A3Preview>vince_ov5675_ofilm_hfr_120_3a</A3Preview>
+      <A3Video>vince_ov5675_ofilm_hfr_120_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="20" special_mode_mask="0">
       <ISPPreview>soft_light_vince_ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>soft_light_vince_ov5675_ofilm_snapshot</ISPSnapshot>
       <ISPVideo>soft_light_vince_ov5675_ofilm_snapshot</ISPVideo>
       <CPPPreview>soft_light_vince_ov5675_ofilm_cpp_preview</CPPPreview>
-      <CPPSnapshot>soft_light_vince_ov5675_ofilm_cpp_snapshot</CPPSnapshot>
+      <CPPSnapshot>soft_light_vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
       <CPPVideo>soft_light_vince_ov5675_ofilm_cpp_video</CPPVideo>
       <CPPLiveshot>soft_light_vince_ov5675_ofilm_cpp_liveshot</CPPLiveshot>
       <A3Preview>soft_light_vince_ov5675_ofilm_zsl_preview_3a</A3Preview>
       <A3Video>soft_light_vince_ov5675_ofilm_zsl_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="11" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="21" special_mode_mask="0">
       <ISPPreview>soft_light_vince_ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>soft_light_vince_ov5675_ofilm_snapshot</ISPSnapshot>
       <ISPVideo>soft_light_vince_ov5675_ofilm_snapshot</ISPVideo>
       <CPPPreview>soft_light_vince_ov5675_ofilm_cpp_preview</CPPPreview>
-      <CPPSnapshot>soft_light_vince_ov5675_ofilm_cpp_snapshot</CPPSnapshot>
+      <CPPSnapshot>soft_light_vince_ov5675_ofilm_cpp_snapshot_hht</CPPSnapshot>
       <CPPVideo>soft_light_vince_ov5675_ofilm_cpp_video</CPPVideo>
       <CPPLiveshot>soft_light_vince_ov5675_ofilm_cpp_liveshot</CPPLiveshot>
       <A3Preview>soft_light_vince_ov5675_ofilm_default_preview_3a</A3Preview>
       <A3Video>soft_light_vince_ov5675_ofilm_default_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="12" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="22" special_mode_mask="0">
       <ISPPreview>soft_light_vince_ov5675_ofilm_hfr_60</ISPPreview>
       <ISPSnapshot>soft_light_vince_ov5675_ofilm_hfr_60</ISPSnapshot>
       <ISPVideo>soft_light_vince_ov5675_ofilm_hfr_60</ISPVideo>
@@ -172,7 +227,7 @@ special_mode_mask values:
       <A3Preview>soft_light_vince_ov5675_ofilm_hfr_60_3a</A3Preview>
       <A3Video>soft_light_vince_ov5675_ofilm_hfr_60_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="13" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="23" special_mode_mask="0">
       <ISPPreview>soft_light_vince_ov5675_ofilm_hfr_90</ISPPreview>
       <ISPSnapshot>soft_light_vince_ov5675_ofilm_hfr_90</ISPSnapshot>
       <ISPVideo>soft_light_vince_ov5675_ofilm_hfr_90</ISPVideo>
@@ -183,7 +238,7 @@ special_mode_mask values:
       <A3Preview>soft_light_vince_ov5675_ofilm_hfr_90_3a</A3Preview>
       <A3Video>soft_light_vince_ov5675_ofilm_hfr_90_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="14" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="24" special_mode_mask="0">
       <ISPPreview>soft_light_vince_ov5675_ofilm_hfr_120</ISPPreview>
       <ISPSnapshot>soft_light_vince_ov5675_ofilm_hfr_120</ISPSnapshot>
       <ISPVideo>soft_light_vince_ov5675_ofilm_hfr_120</ISPVideo>
@@ -194,7 +249,7 @@ special_mode_mask values:
       <A3Preview>soft_light_vince_ov5675_ofilm_hfr_120_3a</A3Preview>
       <A3Video>soft_light_vince_ov5675_ofilm_hfr_120_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="20" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="30" special_mode_mask="0">
       <ISPPreview>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPSnapshot>
       <ISPVideo>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPVideo>
@@ -205,7 +260,7 @@ special_mode_mask values:
       <A3Preview>soft_light_auto_vince_ov5675_ofilm_zsl_preview_3a</A3Preview>
       <A3Video>soft_light_auto_vince_ov5675_ofilm_zsl_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="21" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="31" special_mode_mask="0">
       <ISPPreview>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPSnapshot>
       <ISPVideo>soft_light_auto_vince_ov5675_ofilm_snapshot</ISPVideo>
@@ -216,7 +271,7 @@ special_mode_mask values:
       <A3Preview>soft_light_auto_vince_ov5675_ofilm_default_preview_3a</A3Preview>
       <A3Video>soft_light_auto_vince_ov5675_ofilm_default_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="22" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="32" special_mode_mask="0">
       <ISPPreview>soft_light_auto_vince_ov5675_ofilm_hfr_60</ISPPreview>
       <ISPSnapshot>soft_light_auto_vince_ov5675_ofilm_hfr_60</ISPSnapshot>
       <ISPVideo>soft_light_auto_vince_ov5675_ofilm_hfr_60</ISPVideo>
@@ -227,7 +282,7 @@ special_mode_mask values:
       <A3Preview>soft_light_auto_vince_ov5675_ofilm_hfr_60_3a</A3Preview>
       <A3Video>soft_light_auto_vince_ov5675_ofilm_hfr_60_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="23" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="33" special_mode_mask="0">
       <ISPPreview>soft_light_auto_vince_ov5675_ofilm_hfr_90</ISPPreview>
       <ISPSnapshot>soft_light_auto_vince_ov5675_ofilm_hfr_90</ISPSnapshot>
       <ISPVideo>soft_light_auto_vince_ov5675_ofilm_hfr_90</ISPVideo>
@@ -238,7 +293,7 @@ special_mode_mask values:
       <A3Preview>soft_light_auto_vince_ov5675_ofilm_hfr_90_3a</A3Preview>
       <A3Video>soft_light_auto_vince_ov5675_ofilm_hfr_90_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="24" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="34" special_mode_mask="0">
       <ISPPreview>soft_light_auto_vince_ov5675_ofilm_hfr_120</ISPPreview>
       <ISPSnapshot>soft_light_auto_vince_ov5675_ofilm_hfr_120</ISPSnapshot>
       <ISPVideo>soft_light_auto_vince_ov5675_ofilm_hfr_120</ISPVideo>
