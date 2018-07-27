@@ -1,4 +1,4 @@
-﻿<WorkSpace_Data WSVersID="Badger_3" ToolPlugin="QACT">
+﻿<WorkSpace_Data WSVersID="Badger_3">
   <ACDBFile_Paths>
     <ACDBFile_Paths path="QRD_Bluetooth_cal.acdb" />
     <ACDBFile_Paths path="QRD_General_cal.acdb" />
